@@ -1,4 +1,4 @@
-# hsinhunglin.github.io
+TRIZxAI
 ===
 
 - [概述](./intro.md)
